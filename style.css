@@ -1,0 +1,55 @@
+.text{
+  margin: 2em;
+}
+
+.output {
+  border: 1px solid gold;
+  padding: 4px;
+  margin: 30px;
+  display: flex;
+  flex-direction: column;
+  flex: 1 1 auto;
+  margin-top: 20%;
+}
+
+.application {
+  color: ivory;
+  display: flex;
+  flex-direction: column;
+  flex: 1 1 auto;
+  align-items: flex-start;
+}
+
+.type{
+   margin: 2em;
+}
+
+#hello {
+   display: block; 
+}
+
+.buttonsWrapper {
+    padding: 10px;
+    text-align: center;
+    text-decoration: none;
+    display: inline-block;
+    font-size: 30px;
+
+}
+
+
+body{
+  background-color: white;
+  text-align:center;  
+}
+
+.introMessage{
+  font-size: 50px;
+  font-style: "italic";
+  
+}
+
+
+
+
+
